@@ -1,6 +1,22 @@
 # Box Planning
 
+<p align="center">
+  <img src="https://img.shields.io/badge/language-Python-blue" />
+  <img src="https://img.shields.io/badge/topic-combination--search-orange" />
+  <img src="https://img.shields.io/badge/topic-storage--optimization-lightgrey" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+</p>
+
 [中文](#中文说明) | [English](#english)
+
+## Contents
+
+- [Overview](#english)
+- [Repository structure](#repository-structure)
+- [Citation](#citation)
+- [License](#license)
+- [中文说明](#中文说明)
+
 
 ## English
 
@@ -56,6 +72,15 @@ find_solver(target_size, size_table, cost_type.height_one, 3)
 
 `box planning`, `storage optimization`, `combination search`, `brute force search`, `Python`, `home organization`, `algorithm experiment`
 
+
+## Citation
+
+If you use this repository, please cite or acknowledge it using the metadata in [`CITATION.cff`](CITATION.cff).
+
+## License
+
+This repository is released under the [MIT License](LICENSE). Please retain the copyright and license notice when redistributing or reusing the code.
+
 ---
 
 ## 中文说明
@@ -91,3 +116,7 @@ python3 main.py
 ## 关键词
 
 收纳盒规划、组合优化、暴力搜索、Python、生活算法、空间利用率、家居收纳。
+
+## 引用与许可
+
+如果你使用该仓库，请通过 [`CITATION.cff`](CITATION.cff) 引用或致谢该项目。许可协议见 [`LICENSE`](LICENSE)。
