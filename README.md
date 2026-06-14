@@ -12,6 +12,7 @@
 ## Contents
 
 - [Overview](#english)
+- [Visual overview](#visual-overview)
 - [Repository structure](#repository-structure)
 - [Citation](#citation)
 - [License](#license)
@@ -39,6 +40,12 @@ Find:
 
 - the box combination with the lowest cost;
 - several candidate combinations for comparison.
+
+## Visual overview
+
+<p align="center">
+  <img src="assets/overview.svg" width="820" alt="Storage box planning optimization workflow diagram" />
+</p>
 
 ## Repository structure
 
